@@ -30,6 +30,17 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>FacebookAppID</key>
+	<string>1234567890</string>
+	<key>Url types</key>
+	<array>
+		<dict>
+			<key>Url Schemes</key>
+			<array>
+				<string>fb1234567890</string>
+			</array>
+		</dict>
+	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
